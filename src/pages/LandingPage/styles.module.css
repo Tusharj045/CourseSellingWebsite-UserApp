@@ -1,0 +1,23 @@
+.page {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+.container {
+    height: 450px;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+.heading {
+    color: #646cff;
+}
+.subHeading {
+    color: #535bf2;
+}
